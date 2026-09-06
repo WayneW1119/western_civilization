@@ -18,10 +18,11 @@
 
 ## 03　前201年以后：Rome地中海霸权的形成
 
-这一时期正在续写。当前从Rome进入Hellenistic great-power system开始，已经推进到前168年Antigonid Macedonia覆灭与Rome迫使Antiochus IV退出Egypt；待发展到足以构成完整历史单元的节点后，再撰写本时期总览。
+这一时期正在续写。当前从Rome进入Hellenistic great-power system开始，已经推进到前146年Macedonia设省以及Carthage、Corinth同年毁灭；待发展到足以构成完整历史单元的节点后，再撰写本时期总览。
 
 - [前201—188年：Rome进入希腊化世界](./03%20前201年以后%20罗马地中海霸权的形成/201-188bc%20罗马进入希腊化世界%20马其顿与塞琉古相继战败.md)
 - [前188—168年：Macedonian monarchy覆灭](./03%20前201年以后%20罗马地中海霸权的形成/188-168bc%20马其顿王国覆灭%20罗马成为地中海仲裁者.md)
+- [前168—146年：Macedonia设省，Carthage与Corinth毁灭](./03%20前201年以后%20罗马地中海霸权的形成/168-146bc%20马其顿设省%20迦太基与科林斯毁灭.md)
 
 ## 分期说明
 
