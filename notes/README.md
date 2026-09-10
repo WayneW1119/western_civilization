@@ -18,7 +18,7 @@
 
 ## 03　前201年以后：Rome地中海霸权的形成
 
-这一时期正在续写。当前从Rome进入Hellenistic great-power system开始，已经推进到前91年Marius击败Cimbri、Hasmonean与Parthian国家扩张以及Social War前夜；待发展到足以构成完整历史单元的节点后，再撰写本时期总览。
+这一时期正在续写。当前从Rome进入Hellenistic great-power system开始，已经推进到前70年Social War与Marius—Sulla内战之后、Sullan constitution瓦解以及Pompey与Crassus崛起；待发展到足以构成完整历史单元的节点后，再撰写本时期总览。
 
 - [前201—188年：Rome进入希腊化世界](./03%20前201年以后%20罗马地中海霸权的形成/201-188bc%20罗马进入希腊化世界%20马其顿与塞琉古相继战败.md)
 - [前188—168年：Macedonian monarchy覆灭](./03%20前201年以后%20罗马地中海霸权的形成/188-168bc%20马其顿王国覆灭%20罗马成为地中海仲裁者.md)
@@ -27,6 +27,8 @@
 - [前133—121年：Aristonicus战争、Gaius Gracchus与政治暴力升级](./03%20前201年以后%20罗马地中海霸权的形成/133-121bc%20阿里斯托尼库斯战争与格拉古改革%20共和国政治暴力升级.md)
 - [前121—105年：Jugurthine War、Cimbri迁徙与Marius崛起](./03%20前201年以后%20罗马地中海霸权的形成/121-105bc%20朱古达战争与辛布里迁徙%20马略崛起.md)
 - [前105—91年：Marius击败Cimbri、Saturninus危机与Social War前夜](./03%20前201年以后%20罗马地中海霸权的形成/105-91bc%20马略击败辛布里%20萨图尔尼努斯危机与同盟战争前夜.md)
+- [前91—82年：Social War、第一次Mithridatic War与Sulla进军Rome](./03%20前201年以后%20罗马地中海霸权的形成/91-82bc%20同盟战争与第一次米特里达梯战争%20苏拉进军罗马.md)
+- [前82—70年：Sulla独裁、Sertorius与Spartacus战争](./03%20前201年以后%20罗马地中海霸权的形成/82-70bc%20苏拉独裁与共和国重建%20塞多留和斯巴达克斯战争.md)
 
 ## 分期说明
 
