@@ -18,7 +18,7 @@
 
 ## 03　前201年以后：Rome地中海霸权的形成
 
-这一时期正在续写。当前从Rome进入Hellenistic great-power system开始，已经推进到公元50年：Julio-Claudian Principate继续制度化，Rome开始征服Britain，Jesus movement从Judaea进入Eastern Mediterranean城市网络；待发展到足以构成完整历史单元的节点后，再撰写本时期总览。
+这一时期正在续写。当前从Rome进入Hellenistic great-power system开始，已经推进到公元80年：Julio-Claudian dynasty覆灭，Four Emperors内战后Flavian dynasty重建统治，Jerusalem Temple毁灭，Judaism与Christianity进入重组阶段；待发展到足以构成完整历史单元的节点后，再撰写本时期总览。
 
 - [前201—188年：Rome进入希腊化世界](./03%20前201年以后%20罗马地中海霸权的形成/201-188bc%20罗马进入希腊化世界%20马其顿与塞琉古相继战败.md)
 - [前188—168年：Macedonian monarchy覆灭](./03%20前201年以后%20罗马地中海霸权的形成/188-168bc%20马其顿王国覆灭%20罗马成为地中海仲裁者.md)
@@ -35,6 +35,7 @@
 - [前44—9年：Second Triumvirate、Actium与Augustan order形成](./03%20前201年以后%20罗马地中海霸权的形成/44-9bc%20从第二次三头同盟到奥古斯都秩序.md)
 - [前9年—公元20年：Augustus晚年、Teutoburg惨败与Tiberius继位](./03%20前201年以后%20罗马地中海霸权的形成/9bc-20ad%20奥古斯都晚年与条顿堡惨败%20提比略继位与耶稣时代.md)
 - [公元20—50年：Tiberius晚年、Jesus movement兴起与Claudius征服Britain](./03%20前201年以后%20罗马地中海霸权的形成/20-50ad%20提比略晚年与耶稣运动兴起%20卡利古拉危机和克劳狄征服不列颠.md)
+- [公元50—80年：Nero统治、Jewish War、Four Emperors与Flavian重建](./03%20前201年以后%20罗马地中海霸权的形成/50-80ad%20尼禄统治与犹太战争%20四帝内战和弗拉维王朝重建.md)
 
 ## 分期说明
 
