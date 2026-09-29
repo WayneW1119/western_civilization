@@ -18,7 +18,7 @@
 
 ## 03　前201年以后：Rome地中海霸权的形成
 
-这一时期正在续写。当前从Rome进入Hellenistic great-power system开始，已经推进到公元110年：Flavian dynasty覆灭，Nerva—Trajan succession形成，Rome征服Dacia并吞并Nabataea，Temple毁灭后Judaism与Christianity继续重组；待发展到足以构成完整历史单元的节点后，再撰写本时期总览。
+这一时期正在续写。当前从Rome进入Hellenistic great-power system开始，已经推进到公元140年：Trajan东方扩张达到极限，Hadrian转向巡行与边界治理，Bar Kokhba revolt后Judaea遭到重构，Judaism与Christianity的边界进一步加深；待发展到足以构成完整历史单元的节点后，再撰写本时期总览。
 
 - [前201—188年：Rome进入希腊化世界](./03%20前201年以后%20罗马地中海霸权的形成/201-188bc%20罗马进入希腊化世界%20马其顿与塞琉古相继战败.md)
 - [前188—168年：Macedonian monarchy覆灭](./03%20前201年以后%20罗马地中海霸权的形成/188-168bc%20马其顿王国覆灭%20罗马成为地中海仲裁者.md)
@@ -37,6 +37,7 @@
 - [公元20—50年：Tiberius晚年、Jesus movement兴起与Claudius征服Britain](./03%20前201年以后%20罗马地中海霸权的形成/20-50ad%20提比略晚年与耶稣运动兴起%20卡利古拉危机和克劳狄征服不列颠.md)
 - [公元50—80年：Nero统治、Jewish War、Four Emperors与Flavian重建](./03%20前201年以后%20罗马地中海霸权的形成/50-80ad%20尼禄统治与犹太战争%20四帝内战和弗拉维王朝重建.md)
 - [公元80—110年：Domitian统治、Nerva过渡与Trajan征服Dacia](./03%20前201年以后%20罗马地中海霸权的形成/80-110ad%20图密善统治与涅尔瓦过渡%20图拉真征服达契亚.md)
+- [公元110—140年：Trajan东征、Hadrian边界治理与Bar Kokhba revolt](./03%20前201年以后%20罗马地中海霸权的形成/110-140ad%20图拉真东征与帝国极盛%20哈德良长城和巴尔科赫巴起义.md)
 
 ## 分期说明
 
