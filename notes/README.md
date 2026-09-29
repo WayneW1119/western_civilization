@@ -18,7 +18,7 @@
 
 ## 03　前201年以后：Rome地中海霸权的形成
 
-这一时期正在续写。当前从Rome进入Hellenistic great-power system开始，已经推进到公元140年：Trajan东方扩张达到极限，Hadrian转向巡行与边界治理，Bar Kokhba revolt后Judaea遭到重构，Judaism与Christianity的边界进一步加深；待发展到足以构成完整历史单元的节点后，再撰写本时期总览。
+这一时期正在续写。当前从Rome进入Hellenistic great-power system开始，已经推进到公元170年：Antoninus Pius的长期和平结束，Marcus Aurelius与Lucius Verus建立双帝共治，Parthian War胜利后Antonine Plague扩散，Danube危机开始冲击Italy；待发展到足以构成完整历史单元的节点后，再撰写本时期总览。
 
 - [前201—188年：Rome进入希腊化世界](./03%20前201年以后%20罗马地中海霸权的形成/201-188bc%20罗马进入希腊化世界%20马其顿与塞琉古相继战败.md)
 - [前188—168年：Macedonian monarchy覆灭](./03%20前201年以后%20罗马地中海霸权的形成/188-168bc%20马其顿王国覆灭%20罗马成为地中海仲裁者.md)
@@ -38,6 +38,7 @@
 - [公元50—80年：Nero统治、Jewish War、Four Emperors与Flavian重建](./03%20前201年以后%20罗马地中海霸权的形成/50-80ad%20尼禄统治与犹太战争%20四帝内战和弗拉维王朝重建.md)
 - [公元80—110年：Domitian统治、Nerva过渡与Trajan征服Dacia](./03%20前201年以后%20罗马地中海霸权的形成/80-110ad%20图密善统治与涅尔瓦过渡%20图拉真征服达契亚.md)
 - [公元110—140年：Trajan东征、Hadrian边界治理与Bar Kokhba revolt](./03%20前201年以后%20罗马地中海霸权的形成/110-140ad%20图拉真东征与帝国极盛%20哈德良长城和巴尔科赫巴起义.md)
+- [公元140—170年：Antonine peace、双帝共治、Parthian War与Antonine Plague](./03%20前201年以后%20罗马地中海霸权的形成/140-170ad%20安敦尼和平与两帝共治%20帕提亚战争和安敦尼瘟疫.md)
 
 ## 分期说明
 
