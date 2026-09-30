@@ -18,7 +18,7 @@
 
 ## 03　前201年以后：Rome地中海霸权的形成
 
-这一时期正在续写。当前从Rome进入Hellenistic great-power system开始，已经推进到公元170年：Antoninus Pius的长期和平结束，Marcus Aurelius与Lucius Verus建立双帝共治，Parthian War胜利后Antonine Plague扩散，Danube危机开始冲击Italy；待发展到足以构成完整历史单元的节点后，再撰写本时期总览。
+这一时期正在续写。当前从Rome进入Hellenistic great-power system开始，已经推进到公元235年：Severan dynasty把公民权扩展给几乎全部自由居民，却未能解决军队、财政与继承之间的张力；与此同时Ardashir I推翻Parthia、建立Sasanian Empire，Rome由此进入多边疆同时承压的三世纪危机前夜。待发展到足以构成完整历史单元的节点后，再撰写本时期总览。
 
 - [前201—188年：Rome进入希腊化世界](./03%20前201年以后%20罗马地中海霸权的形成/201-188bc%20罗马进入希腊化世界%20马其顿与塞琉古相继战败.md)
 - [前188—168年：Macedonian monarchy覆灭](./03%20前201年以后%20罗马地中海霸权的形成/188-168bc%20马其顿王国覆灭%20罗马成为地中海仲裁者.md)
@@ -39,6 +39,8 @@
 - [公元80—110年：Domitian统治、Nerva过渡与Trajan征服Dacia](./03%20前201年以后%20罗马地中海霸权的形成/80-110ad%20图密善统治与涅尔瓦过渡%20图拉真征服达契亚.md)
 - [公元110—140年：Trajan东征、Hadrian边界治理与Bar Kokhba revolt](./03%20前201年以后%20罗马地中海霸权的形成/110-140ad%20图拉真东征与帝国极盛%20哈德良长城和巴尔科赫巴起义.md)
 - [公元140—170年：Antonine peace、双帝共治、Parthian War与Antonine Plague](./03%20前201年以后%20罗马地中海霸权的形成/140-170ad%20安敦尼和平与两帝共治%20帕提亚战争和安敦尼瘟疫.md)
+- [公元170—200年：Marcus边疆战争、Commodus覆亡与Severus崛起](./03%20前201年以后%20罗马地中海霸权的形成/170-200ad%20马可奥勒留边疆战争%20康茂德覆亡与塞维鲁崛起.md)
+- [公元200—235年：Roman citizenship普及、Severan dynasty终结与Sasanian Persia崛起](./03%20前201年以后%20罗马地中海霸权的形成/200-235ad%20罗马公民权普及%20塞维鲁王朝终结与萨珊波斯崛起.md)
 
 ## 分期说明
 
