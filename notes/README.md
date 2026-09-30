@@ -18,7 +18,7 @@
 
 ## 03　前201年以后：Rome地中海霸权的形成
 
-这一时期正在续写。当前从Rome进入Hellenistic great-power system开始，已经推进到公元378年：Constantine诸子内战后Constantius II长期统治，Julian短暂恢复traditional cult并在Persian campaign中死亡；Valens允许受Hunnic压力的Goths越过Danube，却因安置失败引发战争，最终在Adrianople与Eastern field army一同覆灭。待发展到足以构成完整历史单元的节点后，再撰写本时期总览。
+这一时期正在续写。当前从Rome进入Hellenistic great-power system开始，已经推进到公元410年：Theodosius在Adrianople灾难后重建East、安置Goths并确立Nicene Christianity的规范地位；395年后东西两套court持续分立，Western government在内战、Rhine突破与军政网络崩解中失去协调能力，Alaric最终洗劫Rome。待完成分期整理与总览后，本时期将形成完整历史单元。
 
 - [前201—188年：Rome进入希腊化世界](./03%20前201年以后%20罗马地中海霸权的形成/201-188bc%20罗马进入希腊化世界%20马其顿与塞琉古相继战败.md)
 - [前188—168年：Macedonian monarchy覆灭](./03%20前201年以后%20罗马地中海霸权的形成/188-168bc%20马其顿王国覆灭%20罗马成为地中海仲裁者.md)
@@ -45,6 +45,7 @@
 - [公元270—305年：Aurelian重统一、Diocletian改革与Tetrarchy](./03%20前201年以后%20罗马地中海霸权的形成/270-305ad%20奥勒良重统一%20戴克里先改革与四帝共治.md)
 - [公元305—337年：Constantine统一Empire、Christianity合法化与New Rome建立](./03%20前201年以后%20罗马地中海霸权的形成/305-337ad%20君士坦丁统一帝国%20基督教合法化与新罗马建立.md)
 - [公元337—378年：Constantinian内战、Julian复兴与Adrianople惨败](./03%20前201年以后%20罗马地中海霸权的形成/337-378ad%20君士坦丁王朝内战%20尤利安复兴与阿德里安堡惨败.md)
+- [公元378—410年：Theodosius重建与东西court分化、Alaric洗劫Rome](./03%20前201年以后%20罗马地中海霸权的形成/378-410ad%20狄奥多西重建与东西宫廷分化%20阿拉里克洗劫罗马.md)
 
 ## 分期说明
 
