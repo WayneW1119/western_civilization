@@ -18,7 +18,7 @@
 
 ## 03　前201年以后：Rome地中海霸权的形成
 
-这一时期正在续写。当前从Rome进入Hellenistic great-power system开始，已经推进到公元337年：Tetrarchy继承在内战中瓦解，Constantine重新统一Empire，使Christianity取得合法地位与imperial patronage，召开Nicaea council，并建立Constantinople这一新的永久政治中心。待发展到足以构成完整历史单元的节点后，再撰写本时期总览。
+这一时期正在续写。当前从Rome进入Hellenistic great-power system开始，已经推进到公元378年：Constantine诸子内战后Constantius II长期统治，Julian短暂恢复traditional cult并在Persian campaign中死亡；Valens允许受Hunnic压力的Goths越过Danube，却因安置失败引发战争，最终在Adrianople与Eastern field army一同覆灭。待发展到足以构成完整历史单元的节点后，再撰写本时期总览。
 
 - [前201—188年：Rome进入希腊化世界](./03%20前201年以后%20罗马地中海霸权的形成/201-188bc%20罗马进入希腊化世界%20马其顿与塞琉古相继战败.md)
 - [前188—168年：Macedonian monarchy覆灭](./03%20前201年以后%20罗马地中海霸权的形成/188-168bc%20马其顿王国覆灭%20罗马成为地中海仲裁者.md)
@@ -44,6 +44,7 @@
 - [公元235—270年：Third-Century Crisis爆发、Valerian被俘与Empire三分](./03%20前201年以后%20罗马地中海霸权的形成/235-270ad%20三世纪危机爆发%20皇帝被俘与帝国三分.md)
 - [公元270—305年：Aurelian重统一、Diocletian改革与Tetrarchy](./03%20前201年以后%20罗马地中海霸权的形成/270-305ad%20奥勒良重统一%20戴克里先改革与四帝共治.md)
 - [公元305—337年：Constantine统一Empire、Christianity合法化与New Rome建立](./03%20前201年以后%20罗马地中海霸权的形成/305-337ad%20君士坦丁统一帝国%20基督教合法化与新罗马建立.md)
+- [公元337—378年：Constantinian内战、Julian复兴与Adrianople惨败](./03%20前201年以后%20罗马地中海霸权的形成/337-378ad%20君士坦丁王朝内战%20尤利安复兴与阿德里安堡惨败.md)
 
 ## 分期说明
 
