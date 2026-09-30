@@ -18,7 +18,7 @@
 
 ## 03　前201年以后：Rome地中海霸权的形成
 
-这一时期正在续写。当前从Rome进入Hellenistic great-power system开始，已经推进到公元270年：Severan dynasty终结后，多线战争、瘟疫、军队拥立与财政压力引发三世纪危机；Valerian被Sasanian Persia俘虏后，Empire形成central、Gallic与Palmyrene三个Roman权力中心。待发展到足以构成完整历史单元的节点后，再撰写本时期总览。
+这一时期正在续写。当前从Rome进入Hellenistic great-power system开始，已经推进到公元305年：Aurelian重新统一三分的Empire，Diocletian则以Tetrarchy、行政税制和边疆改革建立Late Roman state；305年两位Augusti主动退位时，Great Persecution仍在继续，新的继承内战也即将爆发。待发展到足以构成完整历史单元的节点后，再撰写本时期总览。
 
 - [前201—188年：Rome进入希腊化世界](./03%20前201年以后%20罗马地中海霸权的形成/201-188bc%20罗马进入希腊化世界%20马其顿与塞琉古相继战败.md)
 - [前188—168年：Macedonian monarchy覆灭](./03%20前201年以后%20罗马地中海霸权的形成/188-168bc%20马其顿王国覆灭%20罗马成为地中海仲裁者.md)
@@ -42,6 +42,7 @@
 - [公元170—200年：Marcus边疆战争、Commodus覆亡与Severus崛起](./03%20前201年以后%20罗马地中海霸权的形成/170-200ad%20马可奥勒留边疆战争%20康茂德覆亡与塞维鲁崛起.md)
 - [公元200—235年：Roman citizenship普及、Severan dynasty终结与Sasanian Persia崛起](./03%20前201年以后%20罗马地中海霸权的形成/200-235ad%20罗马公民权普及%20塞维鲁王朝终结与萨珊波斯崛起.md)
 - [公元235—270年：Third-Century Crisis爆发、Valerian被俘与Empire三分](./03%20前201年以后%20罗马地中海霸权的形成/235-270ad%20三世纪危机爆发%20皇帝被俘与帝国三分.md)
+- [公元270—305年：Aurelian重统一、Diocletian改革与Tetrarchy](./03%20前201年以后%20罗马地中海霸权的形成/270-305ad%20奥勒良重统一%20戴克里先改革与四帝共治.md)
 
 ## 分期说明
 
